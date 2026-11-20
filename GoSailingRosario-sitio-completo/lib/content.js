@@ -25,10 +25,10 @@
     );
   }
 
-  // Precio: $78.000 por persona. Grupos de menos de 4 personas
+  // Precio: $82.000 por persona. Grupos de menos de 4 personas
   // abonan el equivalente a 4 pasajeros. No hay mínimo de personas
   // para contratar el paseo.
-  var PRICE_PER_PERSON = 78000;
+  var PRICE_PER_PERSON = 82000;
   var MIN_BILLABLE_PAX = 4;
   var MAX_CAPACITY = 8; // "7/8 personas máximo"
 
@@ -98,7 +98,7 @@
 
     quickFacts: [
       { icon: "schedule", label: "3 horas", sub: "de paseo privado" },
-      { icon: "payments", label: "$78.000", sub: "por persona" },
+      { icon: "payments", label: "$82.000", sub: "por persona" },
       { icon: "sailing", label: "Privado", sub: "solo tu grupo" },
       { icon: "group", label: "Hasta 7/8", sub: "personas" },
       { icon: "verified_user", label: "Capitán", sub: "incluido" },
